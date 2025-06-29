@@ -5,7 +5,7 @@
 ## 💫 About Me
 I am the founder of Healthy Network Group  
 🌍 Developer based in Indonesia — passionate about Minecraft server development.  
-Experienced in server setup, plugin creation (Spigot, Paper).
+Experienced in server setup.
 
 
 ### 🌐 Socials
