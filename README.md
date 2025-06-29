@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://i.imgur.com/PyY1Bzh.png" alt="Elloi Ginting Banner" width="100%" />
+
 # Hi 👋, I'am ElloiGinting
 
 ## 💫 About Me
