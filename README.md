@@ -15,6 +15,6 @@ I am the founder of Healthy Network Group<br>I'm a beginner developer<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=ElloiGinting&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,idea)](https://skillicons.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
