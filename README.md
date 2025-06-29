@@ -30,7 +30,7 @@ I'm a beginner developer
 
 [![](https://visitcount.itsvg.in/api?id=ElloiGinting&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,idea,visualstudio,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,idea,visualstudiocode,robloxstudio)](https://skillicons.dev)
 
 <img src="https://i.imgur.com/PyY1Bzh.png" alt="Elloi Ginting Banner" width="20%" />
 </div>
