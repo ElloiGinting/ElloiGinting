@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/PyY1Bzh.png" alt="Elloi Ginting Banner" width="100%" />
-
 # Hi 👋, I'am ElloiGinting
 
 ## 💫 About Me
@@ -34,6 +32,7 @@ I'm a beginner developer
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,idea,visualstudio,robloxstudio)](https://skillicons.dev)
 
+<img src="https://i.imgur.com/PyY1Bzh.png" alt="Elloi Ginting Banner" width="20%" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
