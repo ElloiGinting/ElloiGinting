@@ -36,7 +36,7 @@
 [![](https://visitcount.itsvg.in/api?id=ElloiGinting&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ---
-
+## 🔥 Official Partners
 <img src="https://i.imgur.com/rmELCQb.png" alt="Elloi Ginting Banner" width="80%" />
 
 </div>
