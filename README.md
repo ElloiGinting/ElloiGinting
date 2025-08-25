@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Elloi Ginting**  
 
-🎯 Founder of **Healthy Network Group**  
+🎯 Founder of **ElloStudiosProduction & DB Network Production**  
 🌍 Developer from **Indonesia** — passionate about **Minecraft server development**  
 ⚡ Experienced in **server setup** and community building  
 
@@ -37,7 +37,7 @@
 
 ---
 
-<img src="https://i.imgur.com/PyY1Bzh.png" alt="Elloi Ginting Banner" width="80%" />
+<img src="https://i.imgur.com/rmELCQb.png" alt="Elloi Ginting Banner" width="80%" />
 
 </div>
 
