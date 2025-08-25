@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Elloi Ginting**  
 
 🎯 Founder of **ElloStudiosProduction & DB Network Production**  
-🌍 Developer from **Indonesia** — passionate about **Minecraft server development**  
+🌍 Developer from **Indonesia** — passionate about **Minecraft server development**  & **Web Developer** 
 ⚡ Experienced in **server setup** and community building  
 
 ---
